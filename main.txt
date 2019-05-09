@@ -1,8 +1,4 @@
 first changes in dev
 
 
-
-first changes in dev_remove_selection
-
-
 second changes in dev
